@@ -109,6 +109,7 @@
     <Content Include="dizihint.aspx" />
     <Content Include="dizikomedi.aspx" />
     <Content Include="dizikorku.aspx" />
+    <Content Include="diziler.aspx" />
     <Content Include="dizimacera.aspx" />
     <Content Include="dizimuzikal.aspx" />
     <Content Include="dizipolisiye.aspx" />
@@ -161,6 +162,7 @@
     <Content Include="filmhint.aspx" />
     <Content Include="filmkomedi.aspx" />
     <Content Include="filmkorku.aspx" />
+    <Content Include="filmler.aspx" />
     <Content Include="filmmacera.aspx" />
     <Content Include="filmmuzikal.aspx" />
     <Content Include="filmpolisiye.aspx" />
@@ -173,6 +175,7 @@
     <Content Include="filmyerli.aspx" />
     <Content Include="filmyesilcam.aspx" />
     <Content Include="index.aspx" />
+    <Content Include="populer.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -469,6 +472,13 @@
     </Compile>
     <Compile Include="dizikorku.aspx.designer.cs">
       <DependentUpon>dizikorku.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="diziler.aspx.cs">
+      <DependentUpon>diziler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="diziler.aspx.designer.cs">
+      <DependentUpon>diziler.aspx</DependentUpon>
     </Compile>
     <Compile Include="dizimacera.aspx.cs">
       <DependentUpon>dizimacera.aspx</DependentUpon>
@@ -834,6 +844,13 @@
     <Compile Include="filmkorku.aspx.designer.cs">
       <DependentUpon>filmkorku.aspx</DependentUpon>
     </Compile>
+    <Compile Include="filmler.aspx.cs">
+      <DependentUpon>filmler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="filmler.aspx.designer.cs">
+      <DependentUpon>filmler.aspx</DependentUpon>
+    </Compile>
     <Compile Include="filmmacera.aspx.cs">
       <DependentUpon>filmmacera.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -917,6 +934,13 @@
     </Compile>
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="populer.aspx.cs">
+      <DependentUpon>populer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="populer.aspx.designer.cs">
+      <DependentUpon>populer.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
