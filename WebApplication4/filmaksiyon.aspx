@@ -68,23 +68,34 @@
   </ul>
 </nav>
 
-    <br><br><br><br><br>
+        <br><br><br><br>
 
-
-   <center> <table class="tableback">
+         <center> <table class="tableback">
   <tr>
-    <th><center><h1>ARADIĞINIZ FİLM BULUNAMADI</h1></th>
+    <th><center><h1>Aksiyon Filmleri</h1></th>
   </tr>
-<tr>
-    <th><center><a href="index.aspx"><h5>GERİ DÖN</h5></a></th>
-  </tr>
+</table>
+<br><br>
 
-    </table>
-   
+   <center><table style="width:460px">
+
+      
+  <tr>
+        <td><a href="marsli.aspx"><img src="mars.jpg" alt="marslı" style="width:250px" /></a></td>
+        <td><a href="marsli.aspx" class="text-secondary"><center><h1>Marslı</h1></center></a></td></td>
+      </tr>
+
+             <tr>
+        <td><a href="antman.aspx"><img src="ant_man.jpg" alt="antman" style="width:250px" /></a></td>
+        <td><a href="antman.aspx" class="text-secondary"><center><h1>Antman</h1></center></a></td></td>
+      </tr>
+
+   </table>
+       </center>
     
 
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">

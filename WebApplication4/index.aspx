@@ -106,7 +106,7 @@ a:hover {
 
     <div class="col-sm-4">  
         <br>
-        <a class="visited" class="hover" href="antman.aspx"><h3>Antman</h3></a>
+        <a href="antman.aspx"><h3>Antman</h3></a>
       <p>Mesleğine aşık olan ve bu konuda Reed Richards'ı bile aman aman aratmayan biyokimya uzmanı Dr. Hank Pym;
       altatomik partiküller üzerinden ilginç bir formül geliştirir. Fakat Pym'ın geliştirdiği ve insanlığın geleceğini 
           tayin edeceğine inandığı bu formül daha önceki testlerin hiçbirinde başarılı olmamıştır. 
@@ -143,7 +143,7 @@ a:hover {
       <div class="col-sm-4">
           <br>
           <br>
-      <a class="visited" class="hover" href="coco.aspx"><h3>Coco</h3></a>
+      <a href="coco.aspx"><h3>Coco</h3></a>
       <p>Tüm yaşamı süresince gitar ile müzik çalmaya çalışan 12 yaşındaki Miguel’in tüm konutu gitarla alakalı 
           fotoğraflarla hatıralarla doludur. Miguel efsanevi Meksikalı gitarcı Ernesto’yu televizyonda izler ve 
           büyük bir hayranlık duyarak bir gün onun gibi gitar çalmayı düşleyecektir. En büyük hayali olan Ernesto 
@@ -168,7 +168,7 @@ a:hover {
 
     <div class="col-sm-4">
      <a href="tehlikeli_yuruyus.aspx"><center> <img src="tehlikeli_yuruyus3.jpg" alt="Tehlikeli Yürüyüş" style="width:200px;"> </center></a>
-    <a class="visited" class="hover" href="tehlikeli_yuruyus.aspx"> <center> <h3>Tehlikeli Yürüyüş</h3> </center></a>
+   <center> <a href="tehlikeli_yuruyus.aspx"><h3>Tehlikeli Yürüyüş</h3></a></center>
      <center> <p> 24 yaşındaki Fransız yüksek tel sanatçısı Philippe Petit'in 7 Ağustos 1974'te Dünya Ticaret Merkezi'nin 
           İkiz Kuleleri arasındaki yürüyüşünün hikâyesine dayanıyor. </p> </center>
     </div>
@@ -176,8 +176,8 @@ a:hover {
    
       
     <div class="col-sm-4">
-   <a href="marslı.asp"> <center> <img src="mars.jpg" alt="Marslı" style="width:200px;"> </center></a>
-   <a class="visited" class="hover" href="marslı.aspx"> <center> <h3>Marslı</h3> </center></a>
+   <a href="marsli.asp"> <center> <img src="mars.jpg" alt="Marslı" style="width:200px;"> </center></a>
+  <center> <a href="marsli.aspx"> <h3>Marslı</h3></a></center>
     <center> <p>Nasa Mars’a araştırma yapmak için bir grup astronot gönderir. Araştırma sırasında fırtına çıkar 
         ve tayfa uzay mekiği ile Dünya’ya dönmek zorunda kalırlar. Fakat Mark Watney adında botanik uzmanı astronot 
         uzay mekiğine binemez. Herkes Mars’ta kalan astronotun öldüğünü düşünürler. 
@@ -187,8 +187,8 @@ a:hover {
    
       
     <div class="col-sm-4">
-   <a href="iftarlık_gazoz.aspx"> <center> <img src="iftarlikgazoz.jpg" alt="İftarlık Gazoz" style="width:220px;"> </center></a>
-   <a class="visited" class="hover" href="iftarlık_gazoz.aspx"> <center> <h3>İftarlık Gazoz</h3> </center></a>
+   <a href="iftarlik_gazoz.aspx"> <center> <img src="iftarlikgazoz.jpg" alt="İftarlık Gazoz" style="width:220px;"> </center></a>
+   <center><a href="iftarlik_gazoz.aspx">  <h3>İftarlık Gazoz</h3> </a></center>
     <center> <p>Ramazan ayı başlarken imamın sözleri küçük çocuğu etkiler ve Ege’nin yaz sıcağında açlığın 
         ve susuzluğun zorluklarıyla boğuşmaya başlar. Orucun kefaretinden korkan Adem'in açlıktan gördüğü 
         seraplar onu bir maceranın içine sürükler.</p> </center>

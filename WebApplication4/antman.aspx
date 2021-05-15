@@ -91,18 +91,18 @@
 
         <div class="col-sm-7">
             <br>
-           <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='peyton' >Peyton Reed</a></p><br> 
-           <p style="background-color: lightgray">&#8658; Senarist : Adam McKay, Paul Rudd</p><br> 
-           <p style="background-color: lightslategray">&#8658; Oyuncular : Corey Stoll, Evangeline Lilly, Michael Douglas, Paul Rudd</p><br> 
-           <p style="background-color: lightgray">&#8658; Yapım : 2015,ABD</p><br> 
-           <p style="background-color: lightslategray">&#8658; Tür : Aksiyon, Bilim Kurgu, Komedi, Macera</p><br> 
-           <p style="background-color: lightgray">&#8658; Kategori : Film</p>
+           <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='peyton' data-trigger="focus">Peyton Reed</a></p><br> 
+           <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='adam' data-trigger="focus">Adam McKay</a> </p><br> 
+           <p style="background-color: lightslategray">&#8658; Oyuncular : <a href="#" id='corey' data-trigger="focus">Corey Stoll</a>, <a href="#" id='evangeline' data-trigger="focus">Evangeline Lilly</a>, <a href="#" id='michael' data-trigger="focus">Michael Douglas</a>, <a href="#" id='paul' data-trigger="focus">Paul Rudd</a> </p><br> 
+           <p style="background-color: lightgray">&#8658; Yapım : <a href="film2015.aspx">2015</a>, ABD</p><br> 
+           <p style="background-color: lightslategray">&#8658; Tür : <a href="filmaksiyon.aspx">Aksiyon</a>, <a href="filmbilim.aspx">Bilim Kurgu</a>, <a href="filmkomedi.aspx">Komedi</a>, <a href="filmmacera.aspx">Macera</a></p><br> 
+           <p style="background-color: lightgray">&#8658; Kategori : <a href="filmler.aspx">Film</a></p>
         
         </div>
        </div>
      </div>
 
-        <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antman</h1></th>
+        <h1 style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antman</h1></th>
     <tr>
       <th>
         Marvel aleminin sevilen süper kahramanlarından biri olan Ant-Man de beyazperdeye zıplamayı başardı! Mesleğine aşık olan ve bu konuda Reed Richards'ı bile aman aman aratmayan biyokimya uzmanı Dr. Hank Pym; altatomik partiiküller üzerinden ilginç bir formül geliştirir. Fakat Pym'ın geliştiğirdiği ve insanlığın geleceğini tayin edeceğine inandığı bu formül daha önceki testlerin hiçbirinde başarılı olmamıştır. Ayrıca henüz başarılı olabilmiş bir insanlı deneyden de söz edebilmek mümkün değildir. Pym, cisimlerin boyutlarını değiştirebilen bu formülün denemelerini yapmaya başlar ancak işler pek de umduğu gibi gitmez.  Uygulama sırasında yaşadığı bir kaza sonucu, yeni bir yetenek kazanır. Artık çevresindeki bütün böceklerle iletişim kurabilmekte hatta onları kontrol edebilmektedir.
@@ -144,8 +144,40 @@
     });
 </script>
 
+<script type="text/javascript">
+    $(document).ready(function () {
+        var myimg = "<img src='adam.jpg' height='200px'>";
+        $('#adam').popover({ title: 'Adam McKay', content: myimg, html: true });
+    });
+</script>
 
+<script type="text/javascript">
+    $(document).ready(function () {
+        var myimg = "<img src='paul.jpg' height='200px'>";
+        $('#paul').popover({ title: 'Paul Rudd', content: myimg, html: true });
+    });
+</script>
 
+<script type="text/javascript">
+    $(document).ready(function () {
+        var myimg = "<img src='corey.jpg' height='200px'>";
+        $('#corey').popover({ title: 'Corey Stoll', content: myimg, html: true });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var myimg = "<img src='evangeline.jpg' height='200px'>";
+        $('#evangeline').popover({ title: 'Evangeline Lilly', content: myimg, html: true });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var myimg = "<img src='michael.jpg' height='200px'>";
+        $('#michael').popover({ title: 'Michael Douglas', content: myimg, html: true });
+    });
+</script>
 
     </form>  
 </body>

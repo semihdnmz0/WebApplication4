@@ -68,23 +68,34 @@
   </ul>
 </nav>
 
-    <br><br><br><br><br>
+        <br><br><br><br>
 
-
-   <center> <table class="tableback">
+         <center> <table class="tableback">
   <tr>
-    <th><center><h1>ARADIĞINIZ DİZİ BULUNAMADI</h1></th>
+    <th><center><h1>Fantastik Dizileri</h1></th>
   </tr>
-<tr>
-    <th><center><a href="index.aspx"><h5>GERİ DÖN</h5></a></th>
-  </tr>
+</table>
+<br><br>
 
-    </table>
-   
+   <center><table style="width:460px">
+
+      
+  <tr>
+        <td><a href="rick_and_morty.aspx"><img src="rick.jpeg" alt="Rick and Morty" style="width:250px" /></a></td>
+        <td><a href="rick_and_morty.aspx" class="text-secondary"><center><h1>Rick and Morty</h1></center></a></td></td>
+      </tr>
+
+       <tr>
+        <td><a href="game_of_thrones.aspx"><img src="got.JPG" alt="Game of Thrones" style="width:250px" /></a></td>
+        <td><a href="game_of_thrones.aspx" class="text-secondary"><center><h1>Game of Thrones</h1></center></a></td></td>
+      </tr>
+
+   </table>
+       </center>
     
 
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">

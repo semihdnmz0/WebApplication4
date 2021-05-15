@@ -88,13 +88,13 @@
       </tr>
 
       <tr>
-        <td><a href="iftalık_gazoz.aspx"><img src="iftarlikgazoz.jpg" alt="iftarlık gazoz" style="width:250px" /></a></td>
-        <td><a href="iftarlık_gazoz.aspx" class="text-secondary"><center><br><br><br><br><br><br><h1>iftarlık Gazoz</h1></center></a></td></td>
+        <td><a href="iftarlik_gazoz.aspx"><img src="iftarlikgazoz.jpg" alt="iftarlık gazoz" style="width:250px" /></a></td>
+        <td><a href="iftarlik_gazoz.aspx" class="text-secondary"><center><br><br><br><br><br><br><h1>iftarlık Gazoz</h1></center></a></td></td>
       </tr>
 
       <tr>
-        <td><a href="maslı.aspx"><img src="mars.jpg" alt="marslı" style="width:250px" /></a></td>
-        <td><a href="maslı.aspx" class="text-secondary"><center><br><br><br><br><br><br><br><h1>Marslı</h1></center></a></td></td>
+        <td><a href="marsli.aspx"><img src="mars.jpg" alt="marslı" style="width:250px" /></a></td>
+        <td><a href="marsli.aspx" class="text-secondary"><center><br><br><br><br><br><br><br><h1>Marslı</h1></center></a></td></td>
       </tr>
 
       <tr>

@@ -68,23 +68,34 @@
   </ul>
 </nav>
 
-    <br><br><br><br><br>
+     <br><br><br><br>
 
-
-   <center> <table class="tableback">
+         <center> <table class="tableback">
   <tr>
-    <th><center><h1>ARADIĞINIZ FİLM BULUNAMADI</h1></th>
+    <th><center><h1>Aile Filmleri</h1></th>
   </tr>
-<tr>
-    <th><center><a href="index.aspx"><h5>GERİ DÖN</h5></a></th>
-  </tr>
+</table>
+<br><br>
 
-    </table>
-   
+   <center><table style="width:460px">
+
+
+       <tr>
+        <td><a href="walle.aspx"><img src="walle.jpg" alt="walle" style="width:250px" /></a></td>
+        <td><a href="walle.aspx" class="text-secondary"><center><h1>Walle</h1></center></a></td></td>
+      </tr>
+
+       <tr>
+        <td><a href="iftarlik_gazoz.aspx"><img src="iftarlikgazoz.jpg" alt="iftarlık gazoz" style="width:250px" /></a></td>
+        <td><a href="iftarlik_gazoz.aspx" class="text-secondary"><center><h1>iftarlık Gazoz</h1></center></a></td></td>
+      </tr>
+
+   </table>
+       </center>
     
 
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">

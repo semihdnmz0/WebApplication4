@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="antman.aspx" />
+    <Content Include="breaking_bad.aspx" />
+    <Content Include="coco.aspx" />
     <Content Include="dizi1996.aspx" />
     <Content Include="dizi1997.aspx" />
     <Content Include="dizi1998.aspx" />
@@ -174,8 +176,17 @@
     <Content Include="filmwestern.aspx" />
     <Content Include="filmyerli.aspx" />
     <Content Include="filmyesilcam.aspx" />
+    <Content Include="game_of_thrones.aspx" />
+    <Content Include="iftarlik_gazoz.aspx" />
     <Content Include="index.aspx" />
+    <Content Include="marsli.aspx" />
+    <Content Include="me_and_earl_and_the_dying_girl.aspx" />
     <Content Include="populer.aspx" />
+    <Content Include="rick_and_morty.aspx" />
+    <Content Include="sherlock.aspx" />
+    <Content Include="stranger_things.aspx" />
+    <Content Include="tehlikeli_yuruyus.aspx" />
+    <Content Include="walle.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -185,6 +196,20 @@
     </Compile>
     <Compile Include="antman.aspx.designer.cs">
       <DependentUpon>antman.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="breaking_bad.aspx.cs">
+      <DependentUpon>breaking_bad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="breaking_bad.aspx.designer.cs">
+      <DependentUpon>breaking_bad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="coco.aspx.cs">
+      <DependentUpon>coco.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="coco.aspx.designer.cs">
+      <DependentUpon>coco.aspx</DependentUpon>
     </Compile>
     <Compile Include="dizi1996.aspx.cs">
       <DependentUpon>dizi1996.aspx</DependentUpon>
@@ -928,12 +953,40 @@
     <Compile Include="filmyesilcam.aspx.designer.cs">
       <DependentUpon>filmyesilcam.aspx</DependentUpon>
     </Compile>
+    <Compile Include="game_of_thrones.aspx.cs">
+      <DependentUpon>game_of_thrones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="game_of_thrones.aspx.designer.cs">
+      <DependentUpon>game_of_thrones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="iftarlik_gazoz.aspx.cs">
+      <DependentUpon>iftarlik_gazoz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="iftarlik_gazoz.aspx.designer.cs">
+      <DependentUpon>iftarlik_gazoz.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="marsli.aspx.cs">
+      <DependentUpon>marsli.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="marsli.aspx.designer.cs">
+      <DependentUpon>marsli.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="me_and_earl_and_the_dying_girl.aspx.cs">
+      <DependentUpon>me_and_earl_and_the_dying_girl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="me_and_earl_and_the_dying_girl.aspx.designer.cs">
+      <DependentUpon>me_and_earl_and_the_dying_girl.aspx</DependentUpon>
     </Compile>
     <Compile Include="populer.aspx.cs">
       <DependentUpon>populer.aspx</DependentUpon>
@@ -943,6 +996,41 @@
       <DependentUpon>populer.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rick_and_morty.aspx.cs">
+      <DependentUpon>rick_and_morty.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rick_and_morty.aspx.designer.cs">
+      <DependentUpon>rick_and_morty.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sherlock.aspx.cs">
+      <DependentUpon>sherlock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sherlock.aspx.designer.cs">
+      <DependentUpon>sherlock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="stranger_things.aspx.cs">
+      <DependentUpon>stranger_things.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="stranger_things.aspx.designer.cs">
+      <DependentUpon>stranger_things.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tehlikeli_yuruyus.aspx.cs">
+      <DependentUpon>tehlikeli_yuruyus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tehlikeli_yuruyus.aspx.designer.cs">
+      <DependentUpon>tehlikeli_yuruyus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="walle.aspx.cs">
+      <DependentUpon>walle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="walle.aspx.designer.cs">
+      <DependentUpon>walle.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
