@@ -86,11 +86,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="walle.jpg" alt="Walle" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='andrew' data-trigger="focus">Andrew Stanton</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='andrew1' data-trigger="focus">Andrew Stanton</a>, <a href="#" id='pete' data-trigger="focus">Pete Docter</a></p><br> 

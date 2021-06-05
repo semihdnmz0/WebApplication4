@@ -99,12 +99,12 @@ a:hover {
 
 <div class="container">
   <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-6">
       <a href="antman.aspx">
  <center><img src="ant_man.jpg" alt="Antman" style="width:300px;"></a>
     </div>
 
-    <div class="col-sm-4">  
+    <div class="col-sm-6">  
         <br>
         <a href="antman.aspx"><h3>Antman</h3></a>
       <p>Mesleğine aşık olan ve bu konuda Reed Richards'ı bile aman aman aratmayan biyokimya uzmanı Dr. Hank Pym;
@@ -114,9 +114,6 @@ a:hover {
           değiştirebilen bu formülün denemelerini yapmaya başlar ancak işler pek de umduğu gibi gitmez.  Uygulama sırasında 
           yaşadığı bir kaza sonucu, yeni bir yetenek kazanır. Artık çevresindeki bütün böceklerle iletişim kurabilmekte hatta 
           onları kontrol edebilmektedir.</p>
-    </div>
-      <div class="col-sm-4">
-      <p>   </p>
     </div>
 
   </div>
@@ -133,14 +130,11 @@ a:hover {
 
     <div class="container">
   <div class="row">
-    <div class="col-sm-4">
-
-    </div>
-    <div class="col-sm-4">
+    <div class="col-sm-6">
       <a href="coco.aspx"><center><img src="Coco.jpg" alt="Coco" style="width:300px;"></a>
     </div>
 
-      <div class="col-sm-4">
+      <div class="col-sm-6">
           <br>
           <br>
       <a href="coco.aspx"><h3>Coco</h3></a>

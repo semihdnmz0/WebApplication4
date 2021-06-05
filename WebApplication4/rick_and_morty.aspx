@@ -87,11 +87,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="rick.jpeg" alt="Rick and Morty" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='justin' data-trigger="focus">Justin Roiland</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='justin1' data-trigger="focus">Justin Roiland</a> </p><br> 

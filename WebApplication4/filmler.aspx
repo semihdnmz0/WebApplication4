@@ -135,10 +135,6 @@ $(document).ready(function(){
 
 
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 
     </form>  
 </body>

@@ -85,11 +85,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="mars.jpg" alt="Marslı" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='ridley' data-trigger="focus">Ridley Scott</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='drew' data-trigger="focus">Drew Goddard</a> </p><br> 

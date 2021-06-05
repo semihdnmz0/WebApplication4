@@ -86,11 +86,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="dying_girl.jpg" alt="Me and earl and the dying girl" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='alfonso' data-trigger="focus">Alfonso Gomez-Rejon</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='jesse' data-trigger="focus">Jesse Andrews</a> </p><br> 

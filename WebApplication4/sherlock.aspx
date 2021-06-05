@@ -86,11 +86,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="sherlock.jpg" alt="Sherlock" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='michael' data-trigger="focus">Michael Hurst</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='mark' data-trigger="focus">Mark Gatiss</a> </p><br> 

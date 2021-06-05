@@ -86,11 +86,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="tehlikeli_yuruyus3.jpg" alt="Tehlikeli Yürüyüş" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='robert' data-trigger="focus">Robert Zemeckis</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='robert1' data-trigger="focus">Robert Zemeckis</a> </p><br> 

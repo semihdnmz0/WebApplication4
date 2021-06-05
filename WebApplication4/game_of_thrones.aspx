@@ -86,11 +86,11 @@
 
      <div class="container">
        <div class="row">
-        <div class="col-sm-5">
+        <div class="col-sm-6">
         <img src="got.JPG" alt="Game of Thrones" style="width:300px;">    
         </div>
 
-        <div class="col-sm-7">
+        <div class="col-sm-6">
             <br>
            <p style="background-color: lightslategray">&#8658; Yönetmen : <a href="#" id='alan' data-trigger="focus">Alan Taylor</a></p><br> 
            <p style="background-color: lightgray">&#8658; Senarist : <a href="#" id='david' data-trigger="focus">David Benioff</a> </p><br> 
